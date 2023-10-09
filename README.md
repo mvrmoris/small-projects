@@ -1,2 +1,3 @@
 # small-projects
-where I store my ideas as I go 
+a few things i worked on
+
